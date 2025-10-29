@@ -94,8 +94,11 @@ Production-grade optimization system for service industries currently in commerc
 
 I'm actively building public repositories demonstrating my technical capabilities in operations research and machine learning:
 
+**Live Repositories:**
+- **[workforce-scheduling-benchmarks](https://github.com/Kwekudomp/workforce-scheduling-benchmarks)** ⭐  
+  Comparative analysis of workforce scheduling algorithms with implementations of greedy and genetic algorithms, benchmarking framework, and comprehensive documentation. Demonstrates OR capabilities through working code with ~1,500 lines of Python.
+
 **Coming Soon:**
-- **`workforce-scheduling-benchmarks`** - Comparative analysis of scheduling algorithms (greedy, genetic algorithms, simulated annealing) with performance metrics and visualizations
 - **`ml-optimization-integration`** - Framework demonstrating hybrid ML + OR approaches with forecasting → optimization pipelines
 - **`or-algorithms-python`** - Clean implementations of fundamental OR algorithms with educational documentation
 
