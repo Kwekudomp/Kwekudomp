@@ -1,4 +1,4 @@
-# Ernest Nana Dompreh Owusu
+# Ernest Nana Dompreh Owusu (CA)
 
 **Aspiring PhD Student in Industrial Engineering & Operations Research**  
 📍 Malden, MA | 📧 nanadompreh@hotmail.com | 💼 [LinkedIn](https://linkedin.com/in/ernest-nana-dompreh-owusu-1060b515a)
