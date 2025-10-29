@@ -15,7 +15,7 @@ I'm a dual MS graduate (Business Analytics & Finance from Hult International Bus
 - 🏢 **Service operations research** and resource allocation
 - 📊 **Prescriptive analytics** and human-in-the-loop decision systems
 
-**Recent Achievement:** Developed a proprietary multi-tenant workforce scheduling system achieving **40% efficiency improvements** through novel tier-based optimization algorithms integrating ML predictions with constraint programming. Currently in commercial pilot with a concierge services company serving buildings across Massachusetts, handling **500+ weekly shift assignments** across **multiple locations**.
+**Recent Achievement:** Developed a proprietary multi-tenant workforce scheduling system achieving **40% efficiency improvements** through novel tier-based optimization algorithms integrating ML predictions with constraint programming. Currently in commercial pilot with a concierge services company serving buildings across Massachusetts.
 
 ---
 
@@ -50,12 +50,12 @@ My research focuses on bridging the gap between theoretical optimization and pra
 - **Backend:** Node.js, Express.js, RESTful APIs
 - **Frontend:** React.js, responsive web applications
 - **Databases:** PostgreSQL, MySQL, database design and optimization
-- **DevOps:** Git, version control, agile development, continuous integration
+- **DevOps:** Git, version control, agile development
 
 **Business Intelligence & Analytics**
 - Tableau, Power BI, advanced Excel, matplotlib, seaborn
 - Financial modeling, risk analytics, portfolio optimization
-- A/B testing, experimental design, causal inference
+- Experimental design and statistical analysis
 
 ---
 
@@ -64,26 +64,27 @@ My research focuses on bridging the gap between theoretical optimization and pra
 ### 🔒 Commercial Projects (Private Repositories)
 
 **Multi-Tenant Workforce Scheduling Platform** (2024-Present)  
-Production-grade optimization system for service industries. 
+Production-grade optimization system for service industries currently in commercial pilot.
 
 **Key Technical Innovations:**
-- **Tier-based optimization framework** handling multiple service levels (Standard/Enhanced/Premium)
-- **ML-enhanced demand forecasting** with 85%+ prediction accuracy integrated with constraint programming
+- **Tier-based optimization framework** handling multiple service levels with differentiated constraints
+- **ML-enhanced demand forecasting** integrated with constraint programming for robust scheduling
 - **Real-time conflict detection** with automated constraint checking across availability, skills, and locations
-- **Geographic-aware scheduling** considering travel times and location-specific requirements
-- **Automated attendance monitoring** with predictive analytics for schedule reliability
+- **Geographic-aware scheduling** considering travel times and multi-location coordination
+- **Automated attendance monitoring** with predictive analytics for improved reliability
 - **Multi-objective optimization** balancing labor costs, coverage requirements, and staff preferences
 
-**Measurable Impact:**
-- ✅ **40% reduction** in overall scheduling costs vs. manual methods
-- ✅ **500+ weekly shift assignments** handled automatically across pilot deployment
-- ✅ **95%+ schedule reliability** with automated conflict resolution
-- ✅ Serving **multiple building locations** with coordinated workforce allocation
+**Demonstrated Impact:**
+- ✅ **40% efficiency improvement** over baseline manual scheduling methods
+- ✅ Pilot deployment managing buildings across Massachusetts
+- ✅ Processing weekly shift assignments with automated optimization
+- ✅ System handles multi-tier service level optimization with constraint satisfaction
+- ✅ Measurable reductions in scheduling time and operational costs
 
-**Architecture:**
+**Technical Architecture:**
 - Full-stack SaaS: React frontend, Node.js/Express backend, PostgreSQL database
 - RESTful APIs with role-based access control for multi-tenant security
-- Scalable microservices architecture supporting concurrent users
+- Scalable architecture supporting concurrent operations across multiple client organizations
 
 *Note: Core system repositories are private due to ongoing commercial development. Technical documentation, algorithm benchmarks, and anonymized case studies available for academic review upon request.*
 
@@ -91,14 +92,14 @@ Production-grade optimization system for service industries.
 
 ### 📂 Public Portfolio Projects
 
-I'm actively building public repositories demonstrating my technical capabilities:
+I'm actively building public repositories demonstrating my technical capabilities in operations research and machine learning:
 
 **Coming Soon:**
-- **`workforce-scheduling-benchmarks`** - Comparative analysis of scheduling algorithms (greedy, genetic algorithms, simulated annealing, column generation) with performance metrics and visualizations
+- **`workforce-scheduling-benchmarks`** - Comparative analysis of scheduling algorithms (greedy, genetic algorithms, simulated annealing) with performance metrics and visualizations
 - **`ml-optimization-integration`** - Framework demonstrating hybrid ML + OR approaches with forecasting → optimization pipelines
 - **`or-algorithms-python`** - Clean implementations of fundamental OR algorithms with educational documentation
 
-**Research Interests:**
+**Focus Areas:**
 - Algorithm design for large-scale scheduling problems
 - Integration of uncertain ML predictions with robust optimization
 - Human-centered algorithm design balancing automation and control
@@ -108,34 +109,34 @@ I'm actively building public repositories demonstrating my technical capabilitie
 ## 📄 Publications & Presentations
 
 **In Preparation:**
-- "Tier-Based Workforce Scheduling Under Uncertain Demand: A Case Study in Concierge Services" *(Technical report, 15 pages, in progress)*
+- "Tier-Based Workforce Scheduling Under Uncertain Demand: A Case Study in Concierge Services" *(Technical report)*
 - "Integrating Machine Learning Predictions with Constraint Programming for Service Staff Allocation" *(Methodology paper)*
 
 **Technical Documentation:**
 - Comprehensive technical report available for academic review
-- Anonymized case studies demonstrating problem formulation, algorithmic approach, and validation methodology
-- Public algorithm benchmarks at github.com/Kwekudomp
+- Anonymized case studies demonstrating problem formulation, algorithmic approach, and validation
+- Public algorithm benchmarks at github.com/Kwekudomp *(under development)*
 
 ---
 
 ## 🏆 Notable Achievements
 
-**Technical:**
-- Designed and deployed production scheduling system serving **50+ building locations**
-- Built full-stack SaaS platform handling **500+ weekly shift assignments** in production environment
-- Achieved **40% labor cost reduction** through algorithmic optimization vs. manual scheduling methods
-- Implemented ML pipeline with **85%+ demand forecasting accuracy** for operational planning
+**Research & Development:**
+- Designed and deployed production scheduling system validated through commercial pilot
+- Achieved measurable efficiency improvements (40%+) through algorithmic optimization vs. manual methods
+- Successfully integrated ML forecasting with constraint-based optimization in production environment
+- Built full-stack SaaS platform serving multiple client organizations
 
 **Academic:**
-- Dual STEM master's degrees in Business Analytics and Finance
+- Dual STEM master's degrees (Business Analytics, Finance) from Hult International Business School
 - Strong performance in quantitative coursework: Python Programming (A), Data Visualization (A), Corporate Finance (A)
-- Dean's List (selected semesters)
+- Dean's List recognition (selected semesters)
 - Business Challenge Competition Finalist
 
 **Professional:**
-- Successfully transitioned academic research into commercial deployment
-- Built relationships with industry practitioners validating research impact
+- Transitioned academic research into commercial deployment with industry validation
 - Demonstrated ability to bridge theoretical optimization with practical implementation
+- Built collaborative relationships with industry practitioners
 
 ---
 
@@ -149,7 +150,7 @@ I'm actively building public repositories demonstrating my technical capabilitie
 
 **Bachelor of Management Studies** - University of Cape Coast, Ghana (2017-2019)
 
-**Relevant Coursework:** Business Modeling & Optimization, Machine Learning & AI, Python for Data Analysis, Data Management & SQL, Data Visualization, Portfolio Management, Computational Data Analytics, Financial Modeling, Business Statistics
+**Relevant Coursework:** Business Modeling & Optimization, Machine Learning & AI, Python for Data Analysis, Data Management & SQL, Data Visualization, Portfolio Management, Computational Data Analytics, Corporate Finance, Business Statistics
 
 ---
 
@@ -164,14 +165,14 @@ I'm actively building public repositories demonstrating my technical capabilitie
 **Technical Development:**
 - 🔨 Building public portfolio showcasing optimization and ML implementations
 - 📊 Creating educational resources for OR algorithm implementations
-- 💡 Exploring integration of large language models with decision optimization frameworks
+- 💡 Exploring integration of emerging AI techniques with decision optimization
 - 📖 Contributing to open-source OR/analytics projects
 
 **Professional:**
 - 🚀 Advancing commercial deployment of scheduling optimization platform
 - 🤝 Connecting with practitioners and researchers in service operations
 - 📈 Continuing to bridge academic research with practical business impact
-- 🌐 Expanding system capabilities to new service domains
+- 🌐 Exploring system applications to additional service domains
 
 ---
 
@@ -180,7 +181,7 @@ I'm actively building public repositories demonstrating my technical capabilitie
 I'm always interested in:
 - **Academic collaborations** on optimization, ML, and operations research
 - **Technical discussions** about OR algorithms, system design, prescriptive analytics
-- **Industry applications** of optimization in service operations, finance, healthcare, or logistics
+- **Industry applications** of optimization in service operations, finance, or logistics
 - **PhD opportunities** with research groups focused on:
   - Service systems engineering and workforce optimization
   - Learning-augmented algorithms and algorithmic decision-making
@@ -195,9 +196,11 @@ I'm always interested in:
 
 I believe the most impactful operations research emerges at the intersection of rigorous theory and practical implementation. My work demonstrates that:
 - **Real-world problems** drive interesting theoretical questions
-- **Commercial validation** demonstrates research impact beyond academic metrics
+- **Commercial validation** provides evidence of research impact beyond academic metrics
 - **Production systems** require both algorithmic sophistication and pragmatic engineering
 - **Interdisciplinary approaches** combining ML, OR, and software engineering unlock new possibilities
+
+The gap between theoretical optimization and deployed systems remains wide in many domains. My goal is to contribute research that advances both theoretical understanding and practical capability, creating algorithms and systems that perform reliably in real-world conditions with uncertain data, human factors, and operational constraints.
 
 ---
 
