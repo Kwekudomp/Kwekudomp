@@ -125,7 +125,7 @@ I'm actively building public repositories demonstrating my technical capabilitie
 ## 🏆 Notable Achievements
 
 **Research & Development:**
-- Designed and deployed production scheduling system validated through commercial pilot
+- Designed and deployed production scheduling system validated through pilot deployment
 - Achieved measurable efficiency improvements (40%+) through algorithmic optimization vs. manual methods
 - Successfully integrated ML forecasting with constraint-based optimization in production environment
 - Built full-stack SaaS platform serving multiple client organizations
